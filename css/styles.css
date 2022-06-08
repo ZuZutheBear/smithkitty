@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  padding-bottom: 0;
+}
+
+.top-box {
+  padding-top: 0px;
+  background-color: #646FD4;
+  padding-top: 100px;
+  padding-bottom: 30px;
+  border: 0px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  color: #DBDFFD;
+  margin: 50px auto 50px auto;
+  width: 6%;
+  height: 0;
+}
+
+h1 {
+  font-size: 370%;
+  color: white;
+  margin: 50px auto 0 auto;
+  margin-top: 50px;
+  font-family: "Rock Salt", cursive;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #242F9B;
+  font-weight: normal;
+}
+
+h3 {
+  color: #646FD4;
+}
+
+.subtitle {
+  margin-top: 0px;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.profile {
+  padding-top: 10px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  right: 500px;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 500px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 35px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Smith2-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.Smith3-img {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #646FD4;
+  margin-top: 30px;
+  color: white;
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+
+}
+
+button {
+  font-size: 24px;
+  background-color: #646FD4;
+  color: white;
+  padding: 15px 32px;
+  border: 0;
+  border-radius: 6px;
+}
+
+button:hover {
+  background: #242F9B;
+  /* text-decoration: none; */
+}
+
+a {
+  text-decoration: none;
+  color: #242F9B;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  margin-left: 13px;
+  margin-right: 13px;
+}
+
+.copyright {
+  font-family: "Kdam Thmor Pro", sans-serif;
+  color: white;
+  font-size: 0.75rem;
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+
+.mountains {
+  width: 100%;
+  border: 0;
+  margin: 0;
+  position: relative;
+  top: 50px;
+}
